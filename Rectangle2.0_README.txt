@@ -1,0 +1,3 @@
+With Rectangle2.0.py program you can draw a rectangle from an fixed 3D origin wich you can modify if you want
+and give it depth modifyng z. Furthermore you can put how many times a rectangle can be drawn with zmax argument,
+this is like axis z separations.
