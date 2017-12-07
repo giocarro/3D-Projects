@@ -1,0 +1,2 @@
+With this program you can give depth to a pair of Points just by typing where you want your first point 
+inside the 3D cartesian coordinate system in the initial x-y axes and give it depth modifyng z argument.
